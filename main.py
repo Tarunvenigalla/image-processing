@@ -18,5 +18,5 @@ def extract_text_from_image(image_path):
         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    image_path = r"C:\Users\tarun\OneDrive\Desktop\code\image-processing\images\image5.jpeg"
+    image_path = r"C:\Users\tarun\OneDrive\Desktop\image-processing\WhatsApp Image 2024-05-03 at 9.59.28 PM.jpeg"
     extract_text_from_image(image_path)
